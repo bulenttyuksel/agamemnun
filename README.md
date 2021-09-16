@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=agamemnun&show_icons=true">
 
-# Merhaba, ben Bülent Yüksel! 
+# hi, I'm Bülent! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamemnun" alt="agamemnun" /> </p>
 
 [![](https://img.shields.io/github/followers/agamemnun?style=social)](https://www.github.com/agamemnun)
