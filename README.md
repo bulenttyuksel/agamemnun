@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=agamemnun&show_icons=true">
-
 # Hi, I'm Bülent! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agamemnun" alt="agamemnun" /> </p>
 
